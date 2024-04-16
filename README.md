@@ -1,6 +1,6 @@
 # **IT Jobpost Classification / Job Title Similarity**
 **Overview:**
-This project introduces a model designed to classify job posts using advanced data analytics and machine learning techniques into IT or Non-IT class
+This project introduces a model designed to classify job posts using advanced data analytics and machine learning techniques into IT or Non-IT class.
 
 **Features**
 - IT Job classification: classify job posts on important features
