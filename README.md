@@ -13,5 +13,5 @@ This project introduces a model designed to classify job posts using advanced da
 - Machine Learning Integration for continuous refinement
 
 **Technologies Used**
-- Backend: NLP techniques
-- Frontend: React/Vue.js for UI/UX design
+- Backend: NLP techniques.
+- Frontend: React/Vue.js for UI/UX design.
